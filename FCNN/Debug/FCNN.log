@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Ayush\source\repos\FCNN\Source.cpp(341,38): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ayush\source\repos\FCNN\Source.cpp(383,19): warning C4018: '<': signed/unsigned mismatch
+  FCNN.vcxproj -> C:\Users\Ayush\source\repos\FCNN\Debug\FCNN.exe
